@@ -7,7 +7,12 @@ This project is a volume renderer for DICOM files, built using VTK and Qt. It su
 ## Features
 - **Load DICOM File:** Load and visualize DICOM files in the application.
 - **Surface Rendering:** Render the surface of the 3D model with an adjustable iso value.
+
+  https://github.com/user-attachments/assets/8ebe997f-4eae-441e-86d6-867701c8efd6
+  
 - **Ray Casting Rendering:** Render the 3D model using ray casting techniques.
+
+  https://github.com/user-attachments/assets/98d81c1f-75dc-4256-a09b-f811b2396f9e
 
 ## Installation
 
